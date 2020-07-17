@@ -4,7 +4,9 @@ using namespace std;
 
 class Course {
 public:
-	Course();
+	Course() {
+		this->courseNumber = "0";
+	}
 
 private:
 	string title;

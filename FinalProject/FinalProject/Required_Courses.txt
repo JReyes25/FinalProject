@@ -1,0 +1,24 @@
+Intro to EE,Introduction to the electrical and computer engineering profession,EE 1322,1,3
+BasicCircuits,Electric Circuits and Electronics,EE 2213,1,3
+Network Theory,Basic Network principles,EE 2423,2,3
+Logic Lab,Logic Design Laboratory,EE 2511,2,1
+Logic Design,Logic Design,EE 2513,2,3
+Lab I,Electrical and Computer Engineering Laboratory I,EE 3113,3,3
+EMag,Electromagnetic Engineering,EE 3213,3,3
+CPlus,C++ and Data Structures,EE 3223,3,3
+SysProg,Systems Programming for Engineers,EE 3233,4,3
+Circuits,Electronic Ciruits,EE 3313,4,3
+Devices,Electronic Devices,EE 3323,4,3
+Control,Analysis and Design of Control Systems,EE 3413,5,3
+Signals I,Mathematics in Signals and Systems,EE 3423,5,3
+Micro I,Microcomputer Systems I,EE 3463,5,3
+EMech,Electromechanical Systems,EE 3513,6,3
+Discrete,Discrete Signals and Systems,EE 3523,6,3
+Prob,Probability and Stochastic Processes,EE 3533,6,3
+DSD,Digital Systems Design,EE 3563,7,3
+Lab II,Electrical and Computer Engineering Laboratory II,EE 4113,7,3
+Comp Arch,Computer Organization and Architecture,EE 4243,7,3
+Design I,Electrical Engineering Design I,EE 4812,7,2
+VLSI,Introduction to VLSI Design,EE 4513,8,3
+Micro II,Microcomputer Systems II,EE 4583,8,3
+Design II,Electrical Engineering Design I,EE 4813,8,3
