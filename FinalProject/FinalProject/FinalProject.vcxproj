@@ -151,12 +151,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CourseInProgress.cpp" />
     <ClCompile Include="CourseTaken.cpp" />
     <ClCompile Include="FinalProject.cpp" />
     <ClCompile Include="Course.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Course.h" />
+    <ClInclude Include="CourseInProgress.h" />
     <ClInclude Include="CourseTaken.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

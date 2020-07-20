@@ -1,5 +1,5 @@
 Intro to EE,Introduction to the electrical and computer engineering profession,EE 1322,1,3,Smith,C
-BasicCircuits,Electric Circuits and Electronics,EE 2213,1,3,Wilkenson,A
+Basic Circuits,Electric Circuits and Electronics,EE 2213,1,3,Wilkenson,A
 Network Theory,Basic Network principles,EE 2423,2,3,Chin,B
 Logic Lab,Logic Design Laboratory,EE 2511,2,1,Franks,A
 Logic Design,Logic Design,EE 2513,2,3,Smith,A

@@ -1,13 +1,23 @@
-#include <iostream>
-#include "Course.h"
+#ifndef COURSETAKEN_H
+#define COURSETAKEN_H
 
+#include <string>
+#include "Course.h"
 using namespace std;
 
-class CourseTaken:Course {
+class CourseTaken:public Course {
 public:
 	CourseTaken();
-private:
-	string instructor;
-	double grade;
 
+	void setInstructorName(string instructorName);
+	void setGrade(string grade);
+	string getInstructorName();
+	string getGrade();
+
+private:
+	string instructorName;
+	string grade;
 };
+#endif // !COURSETAKEN_H
+
+
