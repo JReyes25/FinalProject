@@ -11,7 +11,7 @@
 using namespace std;
 
 int const CURRENT_SEMESTER = 3;
-string const STUDENT_NAME = "Jorge Reyes";
+string const STUDENT_NAME = "Jorge B. Reyes";
 
 //Calculates a grade based on a letter grade and credits
 double GetPointFromLetter(char letterGrade, int credits);
@@ -95,7 +95,6 @@ int main() {
 		cout << "Fail to open \"InProgress_Courses.txt\".\nAborting program." << endl;
 		return 0;
 	}
-
 
 	entriesCount = 0;
 
